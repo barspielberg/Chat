@@ -1,0 +1,42 @@
+.box {
+  display: grid;
+  grid-template-rows: auto min-content;
+}
+.messages {
+  flex: 1;
+  overflow: auto;
+}
+.sendInput {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-top: 1px solid #dcdcdc;
+  margin: 0.2rem;
+}
+.image img {
+  height: 100%;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.image img:hover {
+  transform: scale(1.2);
+}
+
+.image {
+  margin-right: 0.5rem;
+  height: 3rem;
+}
+.box button {
+  align-self: stretch;
+}
+
+@media (max-width: 600px) {
+  .box {
+    width: auto;
+    height: 100vh;
+    border-radius: 3%;
+    box-shadow: none;
+    margin: 0;
+  }
+}

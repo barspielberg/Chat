@@ -1,0 +1,24 @@
+.user {
+  padding: 0.2rem 0.5rem;
+  white-space: nowrap;
+  border: 2px solid #6d6d6d57;
+  border-radius: 4px;
+  margin: 0.5rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  transition: all 300ms;
+
+}
+
+.selected {
+  background-color: #93efff;
+  box-shadow: 1px 1px 2px #00000061;
+  transform: translateX(-1px) translateY(-1px);
+}
+.name {
+  margin-inline-end: 1rem;
+}
+
+
+

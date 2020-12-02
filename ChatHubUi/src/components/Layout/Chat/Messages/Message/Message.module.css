@@ -1,0 +1,57 @@
+.row {
+  display: flex;
+}
+.row.flip {
+  flex-direction: row-reverse;
+}
+
+.message {
+  background-color: #93ffd0;
+  padding: 0.5rem;
+  margin: 1rem;
+  border-radius: 6px;
+  min-width: 300px;
+  position: relative;
+}
+.flip .message {
+  text-align: end;
+  background-color: #93efff;
+}
+
+.sender {
+  font-size: smaller;
+  color: #069666c9;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.flip .sender {
+  color: #065a96c9;
+}
+
+.content {
+  padding-inline-end: 6rem;
+  overflow-wrap: anywhere;
+}
+.flip .content {
+  padding-inline-end: 0;
+  padding-inline-start: 6rem;
+}
+
+.time {
+  font-size: smaller;
+  color: #006241b9;
+  text-align: end;
+  position: absolute;
+  right: 0.5rem;
+  bottom: 0.5rem;
+}
+
+.flip .time {
+  text-align: start;
+  left: 0.5rem;
+}
+
+.message img {
+  max-height: 20vh;
+  border-radius: 5px;
+}

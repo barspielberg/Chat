@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url(https://www.toptal.com/designers/subtlepatterns/patterns/trees.png);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+input[type=text],
+input[type=password] {
+  width: 300px;
+  border: 2px solid #b3b1b1;
+  border-radius: 3px;
+}
+
+button {
+  background-color: #00bb9d;
+  color: white;
+  font-weight: bold;
+  border-radius: 3px;
+  border-color: #00bb9d;
+  cursor: pointer;
+  transition: all 200ms;
+}
+button:active,
+button:hover {
+  background-color: white;
+  color: #00bb9d;
+}
+
+button:disabled{
+  background-color: #cacaca;
+  color: gray;
+  border-color: gray;
+  cursor: not-allowed;
+}

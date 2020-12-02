@@ -1,0 +1,38 @@
+.imageUpload {
+  width: 100%;
+}
+.imageUpload input {
+  display: none;
+}
+.imageUpload label {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  border: 2px dashed #009688;
+  cursor: pointer;
+  padding: 0.2rem;
+}
+
+.imageUpload img {
+  max-height: 10rem;
+  transition: all 0.3s;
+}
+
+.imageUpload label:hover img {
+  transform: scale(1.2);
+}
+
+.mainContent {
+  width: 100%;
+}
+.mainContent input[type="text"] {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .imageUpload img {
+    max-width: 250px;
+  }
+}

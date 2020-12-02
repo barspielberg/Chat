@@ -1,0 +1,29 @@
+.searchbar {
+  padding: 0.5rem 1rem;
+  background: linear-gradient(#9cc3ff, #074cab);
+  max-height: 2rem;
+  grid-column: span 2;
+  display: flex;
+  justify-content: space-between;
+}
+
+.error {
+  margin: 0 1rem;
+  color: rgb(250, 67, 67);
+}
+.searchbar b {
+  color: whitesmoke;
+  text-shadow: 2px 2px 2px #00000036;
+  margin-left: 1rem;
+}
+
+.logout{
+  background-color: #022d69;
+  border-color: #022d69;
+}
+.logout:hover,
+.logout:active{
+  background-color: white;
+  color: #022d69;
+}
+
