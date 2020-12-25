@@ -1,0 +1,9 @@
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\Common\obj\Debug\netcoreapp3.1\Common.pdb

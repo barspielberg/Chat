@@ -1,0 +1,14 @@
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\obj\Debug\netcoreapp3.1\BL.dll
+C:\Users\barsp\Desktop\test\Chat\ChatHubServer\BL\obj\Debug\netcoreapp3.1\BL.pdb

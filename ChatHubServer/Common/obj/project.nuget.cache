@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNNiPDF2FY2goOPswrzwcX7CJiUBdkjGSfVdQ/S5jdOBXOlb+SMmHJk3i1BzfU9/szKztSUc5wEZ9QnWe/ZALg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barsp\\Desktop\\test\\Chat\\ChatHubServer\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barsp\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.9\\microsoft.aspnetcore.http.features.3.1.9.nupkg.sha512",
+    "C:\\Users\\barsp\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\barsp\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
